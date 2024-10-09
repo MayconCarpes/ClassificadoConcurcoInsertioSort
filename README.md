@@ -14,7 +14,7 @@ O código recebe um arquivo CSV, lê os dados e realiza a ordenação dos indiv�
 - Leitura de um arquivo CSV com dados de pessoas (nome, nota, ID e data de nascimento).
 - Implementação do algoritmo **Insertion Sort** para ordenar os dados.
 - Classificação dos indivíduos da maior para a menor nota.
-- Exportação dos dados classificados em um novo arquivo CSV.
+
 
 ## Estrutura do Projeto
 
